@@ -15,12 +15,12 @@ Jadi, baik Anda seorang pengembang yang ingin membuat AI percakapan, atau ilmuwa
 - **Program:** IBM Advanced AI
 
 ## Table of Contents 📑
-1. Model: Interface Umum untuk Berbagai LLM
+1. Model : Interface Umum untuk Berbagai LLM
 2. Bekerja Dengan Prompt
-3. Rantai: Urutan Panggilan LLM
-4. Indeks: Fungsi Utilitas untuk Mengakses dan Menyimpan File Anda
-5. Memory: An Interface for Memory Implementation
-6. Agen dan Alat: Siapkan Agen yang Dapat Menggunakan Alat Seperti Google Penelusuran atau Wikipedia atau Kalkulator
+3. Rantai : Urutan Panggilan LLM
+4. Indeks : Fungsi Utilitas untuk Mengakses dan Menyimpan File Anda
+5. Memory : An Interface for Memory Implementation
+6. Agen dan Alat : Siapkan Agen yang Dapat Menggunakan Alat Seperti Google Penelusuran atau Wikipedia atau Kalkulator
 
 ## Objectives 🎯
 LangChain adalah pustaka Python serbaguna yang menyederhanakan pembuatan aplikasi dengan Model Bahasa Besar (LLM). Ini menawarkan:
