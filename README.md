@@ -1,4 +1,4 @@
-# 🎨 Create AI powered apps with open source LangChain 🛠
+# 🎨 Create AI powered apps with open source LangChain
 ### **Author : Sina Nazeri**
 
 ## Overview 🌟
@@ -25,9 +25,9 @@ Jadi, baik Anda seorang pengembang yang ingin membuat AI percakapan, atau ilmuwa
 ## Objectives 🎯
 LangChain adalah pustaka Python serbaguna yang menyederhanakan pembuatan aplikasi dengan Model Bahasa Besar (LLM). Ini menawarkan:
 
-- #Antarmuka Universal# : Integrasi mulus dengan berbagai model LLM.
-- #Manajemen Prompt# : Alat untuk menangani, mengoptimalkan, dan membuat serial perintah.
-- #Rantai Percakapan# : Memungkinkan terciptanya dialog kompleks dengan LLM.
-- #Antarmuka Memori# : Memfasilitasi penyimpanan dan pengambilan informasi model.
-- #Indeks# : Fungsi utilitas untuk memuat data teks khusus.
-- #Agen dan Alat# : Memungkinkan penyiapan agen yang dapat menggunakan alat seperti Google Penelusuran, Wikipedia, atau kalkulator.
+- **Antarmuka Universal** : Integrasi mulus dengan berbagai model LLM.
+- **Manajemen Prompt** : Alat untuk menangani, mengoptimalkan, dan membuat serial perintah.
+- **Rantai Percakapan** : Memungkinkan terciptanya dialog kompleks dengan LLM.
+- **Antarmuka Memori** : Memfasilitasi penyimpanan dan pengambilan informasi model.
+- **Indeks** : Fungsi utilitas untuk memuat data teks khusus.
+- **Agen dan Alat** : Memungkinkan penyiapan agen yang dapat menggunakan alat seperti Google Penelusuran, Wikipedia, atau kalkulator.
